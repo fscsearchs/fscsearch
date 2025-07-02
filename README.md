@@ -23,7 +23,7 @@ Look for options like: • “FSC Search” • “Ration Card Search” • “
 
 FSC Search with Aadhaar No
 FSC Search with Aadhaar No
-Click on any of these options.
+Click https://fscsearch.com/fsc-search-with-aadhaar-no/  on any of these options. 
 
 Step 3: Choose Search Method
 You’ll see different ways to search: • By Aadhaar Number • By Mobile Number • By FSC Number • By Name
